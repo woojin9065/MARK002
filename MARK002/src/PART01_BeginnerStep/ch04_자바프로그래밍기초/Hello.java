@@ -1,4 +1,4 @@
-package PART01_BeginnerStep.ch04_JavaBeginning;
+package PART01_BeginnerStep.ch04_자바프로그래밍기초;
 
 /**
  * ǥ�� ������� "Hello World"�� ǥ���ϴ� ������ �ڹ� ���ø����̼� �����̴�. 
