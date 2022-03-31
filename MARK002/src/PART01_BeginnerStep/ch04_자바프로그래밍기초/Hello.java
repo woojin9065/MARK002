@@ -1,11 +1,11 @@
-package PART01_BeginnerStep.ch04_ÀÚ¹ÙÇÁ·Î±×·¡¹Ö±âÃÊ;
+package PART01_BeginnerStep.ch04_ìë°”í”„ë¡œê·¸ë˜ë°ê¸°ì´ˆ;
 
 /**
- * Ç¥ÁØ Ãâ·ÂÀ¸·Î "Hello World"¸¦ Ç¥½ÃÇÏ´À °£´ÜÇÑ ÀÚ¹Ù ¾îÇÃ¸®ÄÉÀÌ¼Ç ±¸ÇöÀÌ´Ù. 
+ * Ç¥ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ "Hello World"ï¿½ï¿½ Ç¥ï¿½ï¿½ï¿½Ï´ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ú¹ï¿½ ï¿½ï¿½ï¿½Ã¸ï¿½ï¿½ï¿½ï¿½Ì¼ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ì´ï¿½. 
  */
 public class Hello {
 
 	public static void main(String[] args) {
-		System.out.println("Hello World"); 			// ¹®ÀÚ¿­ Ãâ·Â
+		System.out.println("Hello World"); 			// ï¿½ï¿½ï¿½Ú¿ï¿½ ï¿½ï¿½ï¿½
 	}
 }
